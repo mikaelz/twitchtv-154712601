@@ -38,7 +38,9 @@ __MACOSX
 .git
 .CVS
 .idea
+build/
 cache/
+dist/
 log/
 temp/
 tmp/
