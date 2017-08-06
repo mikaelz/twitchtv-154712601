@@ -1,0 +1,15 @@
+{
+  "name": "twitchtv-154712601",
+  "version": "1.0.0",
+  "description": "Coded while watching https://www.twitch.tv/videos/154712601",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "webpack-dev-server": "^2.6.1"
+  }
+}
